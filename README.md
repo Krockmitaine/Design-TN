@@ -1,4 +1,4 @@
 # Design-TN
-Nouveau design et nouveau concept pour un site web.
+Nouveau design et concept pour un site web.
 
 
